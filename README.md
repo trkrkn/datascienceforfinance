@@ -1,2 +1,3 @@
 # data science for finance
-testing the value of github for this class
+
+This is a repository for the notebooks of the class `Data Science for Finance`
